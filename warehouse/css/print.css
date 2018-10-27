@@ -1,0 +1,9 @@
+.noprint{
+	display:none;
+}
+.print_details{
+	position:absolute;
+	left:250px;
+	top:170px;
+}
+
